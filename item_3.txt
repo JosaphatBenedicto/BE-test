@@ -1,0 +1,14 @@
+Item 3.
+Hypothetically, we are building an app that collects accelerometer 
+data from thin clients (sensors with limited processing capacity)
+
+    a. Assuming that the device is sending continuously at 16000Hz 
+    for the X,Y, and Z acceleration measurements, what would your 
+    strategy be in handling and processing the data? How would you 
+    design the server infrastructure? Please enumerate the steps, 
+    software, algorithms, and services that you would use to ensure 
+    that the servers can handle the incoming data from our users. 
+    Diagrams can be really helpful for this.
+
+    b. If the sensors were upgraded to modern mobile devices, how would
+    you change your architecture from A?

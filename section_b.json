@@ -1,0 +1,19 @@
+[{
+    "name": "letecia",
+    "subordinate": [{
+        "name": "rudy"
+    }]
+}, {
+    "name": "mbarcelona",
+    "subordinate": [{
+        "name": "nssi",
+        "subordinate": [{
+            "name": "nishanti",
+            "subordinate": [{
+                "name": "markcorderoi"
+            }]
+        }]
+    }, {
+        "name": "richard"
+    }]
+}]
